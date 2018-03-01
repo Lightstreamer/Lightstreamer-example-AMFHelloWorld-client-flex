@@ -167,4 +167,4 @@ Note that if you're using a 64-bit JVM, you may have some issues running mxmlc; 
 ## Lightstreamer Compatibility Notes
 
 - Compatible with Lightstreamer Flex Client Library version 2.0 or newer.
-- For Lightstreamer Allegro (+ Flex Client API support), Presto, Vivace.
+- Ensure that Flex Client API is supported by Lightstreamer Server license configuration.
